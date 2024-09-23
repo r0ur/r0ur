@@ -1,4 +1,9 @@
-👋 Hi, I’m @r0ur
+  ### hello <person>
+   
+  > Armando Rojano | 29
+  > ux designer + enthusiast web developer
+
+  ###
 
 <!---
 r0ur/r0ur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
