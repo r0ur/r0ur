@@ -1,6 +1,6 @@
-  ### hello <person>
+  ### hello
    
-  > Armando Rojano | 29 |
+  > 29 |
   > ux designer
 
   ###
